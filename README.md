@@ -10,7 +10,7 @@ The Rhythmic Groove Master V1 is a MIDI controller project designed to enhance y
 - Open-Source: Project files and code available for customization and expansion.
 
 ## Button Mappings
-A diagram of the buttons with respective note labels are below
+A diagram of the buttons with respective note labels is below. For proper pedal functionality, the C2 pedal needs to be attached to pin 16 and the hit-hat pedal needs to be attached to pin 14 on the Arduino Pro-Micro board.
 
 ![IMG_0871](https://github.com/Karsten-Uy/rhythmicgroovemaster/assets/58119515/12634ba2-9c1b-42bb-8f03-dc17c9f9dced)
 
